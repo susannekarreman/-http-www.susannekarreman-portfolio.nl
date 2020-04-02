@@ -7,13 +7,31 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
-        "id": "_g1nXSBng0",
+        "content": "Ik ben Susanne Karreman en 21 jaar oud. Ik zit in het tweede jaar van de HBO opleiding communicatie en multimedia design en heb mijn propedeuse behaald. Hiervoor heb ik de MBO-4 opleiding hotel management gevolgd en afgerond met een diploma.",
+        "id": "_ZQ5Fn4ypA",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.",
+        "content": "Ik ben een ondernement, sociaal, behulpzaam en eerlijk type. Ik help graag mijn medestudenten binnen de opleiding maar ook daarbuiten. Dat is ook de reden dat ik peercoach geworden zodat ik de eerstejaars cmd-studenten kan helpen.",
+        "id": "_IPaOkGcjx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Binnen de opleding ligt op het moment mijn intresse bij User reachers &amp; testing en creativ concepting. Dit komt doordat ik het intresant vind om de doelgroep te betrekken bij het ontwerpprocces en de verbinding te kunnen leggen tussen de opdrachtgever en gebruiker. Door middel van het ontwerpen van creatie sessie kan ik orginele idee\u00ebn genareren en die veder onderbouwen door middel van onderzoek. Ik wil mij zelf nog veder ontwikkel op het gebied van Creative technologies zodat ik mijn concepten beter kan verwerking in een high fit prototyp.",
+        "id": "_yy7HclNTp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik wil iets goeds in de wereld bereiken met mijn ontwerpen. Niet alleen op het gebied van duurzaamheid maar ook op sociaal gebied. Ik wil graag bereiken dat ik andere om mij heen kan helpen, op wat voor kleine of grote manier dat ook is.",
+        "id": "_4mftObg5I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
         "id": "_uRKO7ni0o",
         "type": "paragraph"
     }

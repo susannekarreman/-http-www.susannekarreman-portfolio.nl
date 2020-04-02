@@ -1,4 +1,4 @@
-Title: Designing the perfect onboarding process
+Title: Achter de scheren
 
 ----
 
@@ -23,49 +23,39 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Heading 1",
+        "content": "Achter de schermen",
         "id": "_8mgii7n73",
         "type": "h1"
     },
     {
         "attrs": [],
-        "content": "Heading 2",
-        "id": "_mvbw9p8m5",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Heading 3",
+        "content": "Achter de schermen is een concept waarbij het NRC een gezicht krijgt door de journalist naar de voorgrond te laten treden, die niet stopt tot de volledige waarheid boven water komt. Hierdoor helpen we de lezer een mening te vormen door feiten aan te reiken en het hele proces zo transparant mogelijk te laten zien.",
         "id": "_yxpdwjzuk",
         "type": "h3"
     },
     {
         "attrs": [],
-        "content": "Bullet list",
-        "id": "_kv7cm8v9d",
-        "type": "ul"
+        "content": "",
+        "id": "_cwnjhuy68",
+        "type": "blockquote"
     },
     {
         "attrs": {
-            "indent": 0
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/schermafbeelding-2020-03-12-om-00.17.15.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1953761909-1585223839/schermafbeelding-2020-03-12-om-00.17.15.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/schermafbeelding-2020-03-12-om-00.17.15.jpg",
+            "ratio": 0.9983713355048859927620696907979436218738555908203125,
+            "caption": "Achter de schermen de app"
         },
-        "content": "Bullet list",
-        "id": "_08ifj03rw",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_kjtk0ujrw",
-        "type": "ul"
+        "content": "",
+        "id": "_22n9l5b9e",
+        "type": "image"
     },
     {
         "attrs": [],
-        "content": "This is a quote, don't you think?",
-        "id": "_cwnjhuy68",
-        "type": "blockquote"
+        "content": "",
+        "id": "_asu3uwr3h",
+        "type": "paragraph"
     },
     {
         "attrs": [],
@@ -103,23 +93,11 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.7777777777777777,
-            "caption": "Caption yeah!"
+            "src": "https://youtu.be/u66dlXVnjIY",
+            "caption": "Trailer Achter de schermen"
         },
         "content": "",
-        "id": "_u394bdt1a",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "src": "https://youtu.be/Qb7dPpDDgq8",
-            "caption": "Caption yeah!"
-        },
-        "content": "",
-        "id": "_k2lm3y32f",
+        "id": "_jryuqkem3",
         "type": "video"
     },
     {

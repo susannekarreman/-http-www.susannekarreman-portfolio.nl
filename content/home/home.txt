@@ -2,8 +2,12 @@ Title: Home
 
 ----
 
-Introductiontitle: Hello! I'm John Doe.
+Introductiontitle: Hallo! Ik ben Susanne
 
 ----
 
-Introductiontext: Currently I am looking for an internship where I can develop my skills as a third year Communication and Multimediadesign student.
+Introductiontext:
+
+Ik ben een CMD-studente die zich graag focust op UX-research & UX-design. 
+Om mijn 3e schooljaar te beginnen ben ik op zoek naar een stage waar ik mij veder kan ontwikkelen als Ux-researcher & designer. 
+Leer mij kennen door op een van de knoppen hier onder te klikken, totzo!

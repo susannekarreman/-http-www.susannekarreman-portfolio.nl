@@ -1,25 +1,26 @@
-Title: Robin Sinke
+Title: Susanne Karreman
 
 ----
 
 Logo:
 
-- robinsinke.jpeg
+- logo-suus.png
 
 ----
 
-Email: r.sinke@hr.nl
+Email: susanne.karreman@gmail.com
 
 ----
 
 Social:
 
 - 
-  platform: Twitter
-  url: https://twitter.com/robzooi
+  platform: 'Instagram '
+  url: https://www.instagram.com/_susanne_x/
 - 
   platform: LinkedIn
-  url: https://www.linkedin.com/in/robinsinke/
+  url: >
+    https://www.linkedin.com/in/susanne-karreman-705a5a197/
 
 ----
 
