@@ -9,5 +9,5 @@ Introductiontitle: Hallo! Ik ben Susanne
 Introductiontext:
 
 Ik ben een CMD-studente die zich graag focust op UX-research & UX-design. 
-Om mijn 3e schooljaar te beginnen ben ik op zoek naar een stage waar ik mij veder kan ontwikkelen als Ux-researcher & designer. 
-Leer mij kennen door op een van de knoppen hier onder te klikken, totzo!
+Om mijn 3e schooljaar te beginnen ben ik op zoek naar een stage waar ik mij verder kan ontwikkelen als Ux-researcher & designer. 
+Leer mij kennen door op een van de knoppen hier onder te klikken. Totzo!

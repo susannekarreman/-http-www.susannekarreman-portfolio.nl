@@ -1,8 +1,9 @@
   <footer>
     <div class="row border-top">
       <div class="col d-flex justify-content-center">
-        <h2 id="social">Feel free to contact me</h2>
+        <h2 id="social">Neem contact met mij op</h2>
       </div>
+     
     </div>
     <div class="row">
       <div class="col d-flex justify-content-center">

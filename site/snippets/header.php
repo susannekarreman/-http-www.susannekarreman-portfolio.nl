@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   
 
-  <link rel="stylesheet" href="assets/css/Costum.css" type="text/css">
+  <link rel="stylesheet" href="assets/css/costum.css" type="text/css">
 
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet">
   <link rel="icon" href="<?= $site->image()->url() ?>">
@@ -34,7 +34,7 @@
           </li>
           <?php endforeach ?>
           <li class="nav-item">
-            <a class="nav-link" href="#social">Contact me</a>
+            <a class="nav-link" href="#social">Neem contact op</a>
           </li>
         </ul>
       </div>

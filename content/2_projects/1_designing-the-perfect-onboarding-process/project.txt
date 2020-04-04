@@ -1,20 +1,20 @@
-Title: Achter de scheren
+Title: Schoolopdracht NRC september 2020 - november 2020
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: 
 
 ----
 
-Duration: September 2019 - Januari 2020
+Duration: 
 
 ----
 
-Clients: NRC
+Clients: 
 
 ----
 
-Deliverables: Empathymap, Wireframes, Persona's
+Deliverables: 
 
 ----
 
@@ -40,22 +40,22 @@ Text:
         "type": "blockquote"
     },
     {
-        "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/schermafbeelding-2020-03-12-om-00.17.15.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1953761909-1585223839/schermafbeelding-2020-03-12-om-00.17.15.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/schermafbeelding-2020-03-12-om-00.17.15.jpg",
-            "ratio": 0.9983713355048859927620696907979436218738555908203125,
-            "caption": "Achter de schermen de app"
-        },
-        "content": "",
-        "id": "_22n9l5b9e",
-        "type": "image"
-    },
-    {
         "attrs": [],
         "content": "",
         "id": "_asu3uwr3h",
         "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/nrcxteam.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/41540945-1585856456/nrcxteam.png",
+            "id": "projects/designing-the-perfect-onboarding-process/nrcxteam.png",
+            "ratio": 5.22680412371134028859387399279512465000152587890625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ev00fme1r",
+        "type": "image"
     },
     {
         "attrs": [],
