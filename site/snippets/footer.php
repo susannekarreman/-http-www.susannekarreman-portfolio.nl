@@ -1,10 +1,12 @@
   <footer>
     <div class="row border-top">
       <div class="col d-flex justify-content-center">
-        <h2 id="social">Neem contact met mij op</h2>
+        <h2>Let's talk</h2>
       </div>
-     
+
+
     </div>
+    <button type="button" class="block">Contact</button>
     <div class="row">
       <div class="col d-flex justify-content-center">
         <ul class="nav">
@@ -24,6 +26,7 @@
         <a href="<?= url() ?>">&copy; <?= $site->title() ?> <?= date('Y') ?></a>
       </div>
     </div>
+          </div>
   </footer>
 
 </div>

@@ -2,9 +2,7 @@ Title: Susanne Karreman
 
 ----
 
-Logo:
-
-- logo-suus.png
+Logo: 
 
 ----
 
@@ -15,12 +13,12 @@ Email: susanne.karreman@gmail.com
 Social:
 
 - 
-  platform: 'Instagram '
-  url: https://www.instagram.com/_susanne_x/
-- 
   platform: LinkedIn
   url: >
     https://www.linkedin.com/in/susanne-karreman-705a5a197/
+- 
+  platform: 'Instagram '
+  url: https://www.instagram.com/_susanne_x/
 
 ----
 

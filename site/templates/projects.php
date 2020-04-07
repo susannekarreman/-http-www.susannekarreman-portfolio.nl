@@ -1,21 +1,53 @@
 <?php snippet('header') ?>
 
 <main>
-  <?php snippet('intro') ?>
-  <div class="row" <?= attr(['data-even' => $page->children()->listed()->isEven()], ' ') ?>>
-    <?php foreach ($page->children()->listed()->paginate(9) as $project): ?>
-    <div class="col-12 col-lg-4">
-      <div class="card h-100">
-        <img src="<?= $project->images()->findBy("template", "thumbnail")->url(); ?>" class="card-img-top" alt="thumbnail" />
-        <div class="card-body">
-          <h4 class="card-title"><a href="<?= $project->url() ?>"><?= $project->title() ?></a></h4>
-          <p class="card-text"><?= $project->roles() ?> </p>
-          <a href="<?= $project->url() ?>">Lees meer &#8594;</a>
-          </div>
-        </div>
-      </div>
-    <?php endforeach ?>
+<div class="mijnwerk">
+  <h1>Mijn werk</h1>
+</div>
+<br>
+<br>
+
+<div class="row">
+<div class="column">
+  <div class="flip-card">
+    <a href="http://192.168.64.2/projects/designing-the-perfect-onboarding-process">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="/img/mocupnrc.png" alt="Avatar" style="width:310px;height:350px;">
+    </div>
+    <div class="flip-card-back">
+      <h1>Achter de schermen</h1>
+      <p>School opdracht nrc</p>
+      <p>Project bekijken</p>
+    </div>
   </div>
-</main>
+</div>
+</div>
+
+<div class="column">
+<div class="flip-card">
+    <a href="../../site/templates/project2.php">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="/img/mockupodp.png" alt="Avatar" style="width:300px;height:350px;">
+    </div>
+    <div class="flip-card-back">
+      <h1>Care for the future</h1>
+      <p>School opdracht Online department</p>
+      <p>Project bekijken</p>
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <?php snippet('pagination') ?>
 <?php snippet('footer') ?>
