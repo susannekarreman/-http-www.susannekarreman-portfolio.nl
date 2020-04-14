@@ -6,7 +6,7 @@
 
 <main>
 
-
+<h1>hoi</h1>
 
   <div class="row align-items-center">
     <div class="col-12 col-lg-6">
