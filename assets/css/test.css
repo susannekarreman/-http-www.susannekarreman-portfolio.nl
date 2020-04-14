@@ -246,7 +246,24 @@ a{
       padding-left: 150px;
   }
 
-  .hoi
-  {
-      
-  }
+  
+.foto
+{
+    width: 220px;
+    height: 100px;
+    padding-top: 30px;
+}
+.foto
+{
+    margin-left: 80px;
+}
+
+.contactpagina
+{
+    width: 900px;
+    height: 500px;
+    background-color:#FCEEF0;
+    margin-top: 50px;
+    
+}
+

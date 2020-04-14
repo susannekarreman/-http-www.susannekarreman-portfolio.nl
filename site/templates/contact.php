@@ -5,6 +5,7 @@
 </head>
 
 <body>
+  <div class="column">
 <div class="row">
   <div class="col-12 col-lg-9">
   <div class="contactpagina">
@@ -12,16 +13,16 @@
     <div class="cardmb-3" style="width: 1100px;">
   <div class="row no-gutters">
     <div class="col-md-4">
+      <div class="foto">
       <img src="/img/contactfoto.gif" class="card-img" class="responsive" alt="Susanne Karreman">
     </div>
+</div>
+
     <div class="col-md-8">
       <div class="card-body">
       <br>
         <br>
-        <br>
-        <br>
-        <br>
-        <br>
+    
         <h3 class="card-title">Let's talk</h3>
         <br>
        
@@ -52,6 +53,7 @@
 
     </div>
     </div>
+</div>
 </div>
 </div>
 </div>
