@@ -7,19 +7,19 @@
 <body>
   <div class="column">
 <div class="row">
-  <div class="col-12 col-lg-9">
+  <div class="col-6">
   <div class="contactpagina">
     <br>
-    <div class="cardmb-3" style="width: 1100px;">
+    <div class="cardmb-3">
   <div class="row no-gutters">
     <div class="col-md-4">
       <div class="foto">
-      <img src="/img/contactfoto.gif" class="card-img" class="responsive" alt="Susanne Karreman">
+      <img src="/img/contactfoto.gif" class="card-img" class="img-fluid" alt="Susanne Karreman">
     </div>
 </div>
 
     <div class="col-md-8">
-      <div class="card-body">
+      <div class="card-body" class="responsive">
       <br>
         <br>
     
@@ -49,7 +49,6 @@
       
       
         
-
 
     </div>
     </div>
