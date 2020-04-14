@@ -6,7 +6,7 @@
 
 
     </div>
-    <button type="button" class="block">Contact</button>
+    <a href="/contact/" class="block btn-primary btn">Contact</a>
     <div class="row">
       <div class="col d-flex justify-content-center">
         <ul class="nav">

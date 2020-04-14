@@ -5,7 +5,9 @@
 <br>
 
 <main>
- 
+
+
+
   <div class="row align-items-center">
     <div class="col-12 col-lg-6">
       <h1><?= $page->introductiontitle() ?></h1>
@@ -82,6 +84,7 @@
 <br>
 <br>
 <br>
+
 
   
   <?php snippet('footer') ?>

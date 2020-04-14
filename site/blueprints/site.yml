@@ -19,6 +19,7 @@ tabs:
               - about
               - home
               - default
+              - contact
 
   settings:
     fields:

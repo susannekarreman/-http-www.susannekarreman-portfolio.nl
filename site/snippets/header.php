@@ -8,6 +8,7 @@
   
 
   <link rel="stylesheet" href="<?= $site->url() ?>/assets/css/test.css" type="text/css">
+ 
 
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet">
   <link rel="icon" href="<?= $site->image()->url() ?>">
@@ -20,6 +21,7 @@
   <header>
     <nav class="navbar navbar-expand-lg navbar-light">
       <a class="navbar-brand" href="<?= $site->url() ?>">
+    
         <img src="<?= $site->image()->url() ?>" width="48px" height="48px" alt="<?= $site->image()->alt() ?>" class="rounded-circle"/>
         <?= $site->title() ?>
       </a>
@@ -31,14 +33,14 @@
           <?php foreach ($site->children()->listed() as $item): ?>
           <li class="nav-item">
             <a href="<?= $item->url(); ?>" class="nav-link"><?= $item->title(); ?></a>
-          </li>
+          </li>  
+          
           <?php endforeach ?>
-          <li class="nav-item">
-            <a class="nav-link" href="#social">Neem contact op</a>
-          </li>
+          
         </ul>
       </div>
     </nav>
+    
   </header>
 
   <div class="container">

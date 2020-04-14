@@ -1,0 +1,28 @@
+title: Contact
+icon: 🚶‍
+
+status:
+  draft: true
+  listed: true
+
+options:
+  changeSlug: false
+  delete: false
+
+columns:
+  - width: 2/3
+    fields:
+      text:
+        label: Editor
+        type: editor
+
+  - width: 1/3
+    sections:
+      resume:
+        headline: Your resumé
+        type: files
+        template: document
+        empty: Upload your preview image (File format PDF only)
+        layout: cards
+        multiple: false
+        max: 1
