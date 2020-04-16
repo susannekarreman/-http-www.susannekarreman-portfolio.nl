@@ -1,8 +1,6 @@
 
 <?php snippet('header') ?>
-<head>
-<script src="https://kit.fontawesome.com/yourcode.js"></script>
-</head>
+
 <body>
 <div class="creative-dump">
   <h2>Mijn creative dump</h2>
@@ -11,13 +9,14 @@
 </div>
 <br>
 <br>
+
 <div class="row">
 <div class="column">
   <div class="flip-card">
     <a href="/spokenword">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src="/img/spoken.png" alt="Avatar" style="width:310px;height:350px;">
+      <img src="/img/ux.png" alt="Avatar" style="width:310px;height:350px;">
     </div>
     <div class="flip-card-back">
       <h1>Spokenword</h1>
@@ -42,16 +41,7 @@
 </div>
 </div>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <div class="row">
 <div class="column">
@@ -64,6 +54,8 @@
     <div class="flip-card-back">
       <h1>Paardrijden</h1>
       <p>Mijn grootste hobby!</p>
+
+    
     </div>
   </div>
   </div>
