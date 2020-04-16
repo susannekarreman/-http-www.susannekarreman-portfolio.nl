@@ -1,5 +1,6 @@
 
 <?php snippet('header') ?>
+<div class="container">
 <div class="row">
   <div class="col-12 col-lg-9">
     <br>
@@ -20,7 +21,7 @@
 
   <p style="text-align:justify;"> Buiten school houd ik mij graag bezig op de manege met paardrijden. Ik breng graag tijd door met mijn vriendinnen door lekker te gaan winkelen en een terrasje te pakken in het zonnetje. Als bijbaantje sta ik achter de bar in een restaurant Bertmans, achter de bar tap ik natuurlijk ook het perfecte biertje maar vind het ik het vooral leuk om latte art te maken in een heerlijke cappuccino. <p>
  
-
+</div>
 
   <div class="col-12 col-lg-3">
     <br>

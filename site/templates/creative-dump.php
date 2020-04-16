@@ -14,7 +14,7 @@
 <div class="row">
 <div class="column">
   <div class="flip-card">
-    <a href="http://192.168.64.2/spokenword">
+    <a href="/spokenword">
   <div class="flip-card-inner">
     <div class="flip-card-front">
       <img src="/img/spoken.png" alt="Avatar" style="width:310px;height:350px;">
@@ -29,20 +29,54 @@
 
 <div class="column">
 <div class="flip-card">
-    <a href="http://192.168.64.2/tekeningen">
+    <a href="/tekeningen/">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img src="/img/mockupodp.png" alt="Avatar" style="width:300px;height:350px;">
+      <img src="/img/kat.jpg" alt="Avatar" style="width:300px;height:350px;">
     </div>
     <div class="flip-card-back">
-      <h1>Care for the future</h1>
-      <p>School opdracht Online department</p>
-      <p>Project bekijken</p>
+      <h1>Tekeningen</h1>
+      <p>Bekijk mijn werk</p>
     </div>
   </div>
 </div>
 </div>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="row">
+<div class="column">
+  <div class="flip-card">
+    <a href="/spokenword">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="/img/spoken.png" alt="Avatar" style="width:310px;height:350px;">
+    </div>
+    <div class="flip-card-back">
+      <h1>Paardrijden</h1>
+      <p>Mijn grootste hobby!</p>
+    </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>

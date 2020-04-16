@@ -1,18 +1,18 @@
 
 <?php snippet('header') ?>
 
+<div class="column">
 
-   <h2>Tekeningen</h2>
-   <h6>Buiten school vind het het leuk om te tekeken en aan de gang te gaan met acriel verf</h6>
-   
+<img src="/img/kat.jpg" style="width:30%">
 
-   
-    <img src="/img/klaartje.png">
+<img src="/img/fiets.jpg" style="width:53%">
+
+<img src="/img/drie.jpg" style="width:50%">
+
+</div>
+
 
  
-    <img src="/img/spoken.png">
-  
-  
 
 
 <?php snippet('footer') ?>
