@@ -37,6 +37,7 @@ body
     border-color:teal ;
 }
 
+
 .readmoreknop
 {
     color: teal;
@@ -431,6 +432,12 @@ p {
 }
 
 
+.btn {
+  width: 100%;
+  min-width: 50px;  
+  max-width: 150px;  
+
+}
 
 
   

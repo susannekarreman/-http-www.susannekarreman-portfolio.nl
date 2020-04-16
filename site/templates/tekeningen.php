@@ -20,6 +20,8 @@
   <img src="/img/tekening10.jpg" alt="Cute cat">
   <img src="/img/tekening7.jpg" alt="Serious cat">
   <img src="/img/tekening12.jpg" alt="Serious cat">
+  <img src="/img/meisje.jpg" alt="Serious cat">
+  <img src="/img/boeffie.png" alt="Serious cat">
 
 
 </section>

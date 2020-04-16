@@ -10,7 +10,7 @@
   </div>
  
  
-  <img src="/img/portfoliofoto2.png" class="algin-left medium"/>
+  <img src="/img/portfoliofoto2.png" class="algin-left medium">
   <p style="text-align:justify;"> Ik ben Susanne Karreman, ben 22 jaar oud en kom uit Rotterdam. Ik zit op het moment in mijn 2de jaar van CMD. Het eerste jaar heb ik afgesloten met mijn Propedeuse. 
   Ik ben van Mbo-4 naar het Hbo overgestapt, ik heb niet de meest voor de handliggende vooropleiding gevolgd namelijk Hotel management aan het Zadkine in Rotterdam en heb dit afgesloten met een diploma. Door mijn vorige studie is het voor mij makkelijk om de gebruiker te betrekken bij mijn ontwerpproces en een ervaring voor de gebruiker te creëren. Dit komt omdat ik tijdens mijn opleiding mensgericht opgeleid ben waardoor ik rekening ging houden met de behoeftes van de gasten en deze mee te nemen, zodat de gasten een geweldige verblijf kunnen beleven. Dit heb ik meegenomen naar CMD omdat dit voor mij zo vanzelfsprekend geworden is om rekening te houden met de gebruiker. </p>
 

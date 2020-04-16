@@ -43,38 +43,12 @@
 </div>
 
 
-<div class="row">
-<div class="column">
-  <div class="flip-card">
-    <a href="/spokenword">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <img src="/img/spoken.png" alt="Avatar" style="width:310px;height:350px;">
-    </div>
-    <div class="flip-card-back">
-      <h1>Paardrijden</h1>
-      <p>Mijn grootste hobby!</p>
-
-    
-    </div>
-  </div>
-  </div>
-  </div>
-  </div>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
+
 
         
       
