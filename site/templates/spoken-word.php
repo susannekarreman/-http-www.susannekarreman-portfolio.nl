@@ -1,15 +1,20 @@
 <?php snippet('header') ?>
 
-<h2>Spokenword</h2>
-<h6>Tijdens mijn eerste jaar CMD heb ik het keuze vak spokenword gevolgd van Derek Otte de stadsdichter van Rotterdam.
-Ik heb dit keuzevak gevolg om op een leuke manier om te gaan met taal. Na het keuzevak ben ik hier mee veder gegaan. Hier ziet u een verzammeling
-van schoolwerk en eigenwerk.</h6>
 
-<br>
 
-<img src="/img/klaartje.png">
+<section id="spokenword">
 
+  <img src="/img/koe.png" alt="Cute cat"> 
+  <img src="/img/spoken.png" alt="Serious cat">
+  <img src="/img/bord3.png" alt="Serious cat">
+  <img src="/img/ux.png" alt="Cute cat"> 
+  <img src="/img/drink.png" alt="Serious cat">
+  <img src="/img/droom.png" alt="Serious cat">
  
-<img src="/img/spoken.png">
+ 
+
+  </section>
+
+
 
 <?php snippet('footer') ?>
