@@ -6,7 +6,8 @@
 </div>
 <br>
 <br>
-
+<div class="row">
+  <div class="col-9 test"> 
 <div class="row">
 <div class="column">
   <div class="flip-card">
@@ -38,7 +39,8 @@
     </div>
   </div>
 </div>
-
+</div>
+</div>
 </div>
 </div>
 

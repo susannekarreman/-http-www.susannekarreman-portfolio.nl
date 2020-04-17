@@ -2,14 +2,17 @@
 <?php snippet('header') ?>
 
 <body>
+  
 <div class="creative-dump">
   <h2>Mijn creative dump</h2>
-  <h6>Wat ik allemaal buiten cmd om doe.</h6>
-
+</div>
+<div class="dump">
+<h6>Wat ik allemaal buiten cmd om doe.</h6>
 </div>
 <br>
 <br>
-
+<div class="row">
+  <div class="col-9 test"> 
 <div class="row">
 <div class="column">
   <div class="flip-card">
@@ -38,6 +41,8 @@
       <p>Bekijk mijn werk</p>
     </div>
   </div>
+</div>
+</div>
 </div>
 </div>
 </div>

@@ -55,6 +55,15 @@ Hiervoor maak ik gebruik van verschillende creatieve technieken en methodes. Ik 
 </div>
 
 
+<h3 class= "software">Mijn software skills</h3>
+
+<div class="skills">
+  
+       
+        <img src="/img/skills.png" width="100%">
+</div>
+
+
 
 
 

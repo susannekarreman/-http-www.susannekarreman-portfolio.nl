@@ -5,6 +5,7 @@
 </head>
 
 <body>
+<div class="row">
   <div class="column" >
     
   <div class="contactpagina">
@@ -57,7 +58,9 @@
 
     
 </div>
+</div>
 
+</div>
 </div>
 </div>
 </div>

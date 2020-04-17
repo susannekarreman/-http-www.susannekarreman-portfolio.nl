@@ -1,8 +1,5 @@
 <?php snippet('header') ?>
-<br>
-<br>
-<br>
-<br>
+
 
 <main>
 
@@ -22,23 +19,20 @@
   </div>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
 <br>
 <br>
 <br>
 
 <div class="mijnwerk">
-  <h1>Mijn werk</h1>
+  <h2>Mijn werk</h2>
 </div>
 <br>
 <br>
-
+<div class="row">
+  <div class="col-9 test"> 
 <div class="row">
 <div class="column">
   <div class="flip-card">
@@ -70,20 +64,11 @@
     </div>
   </div>
 </div>
-
+</div>
+</div>
 </div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
   
