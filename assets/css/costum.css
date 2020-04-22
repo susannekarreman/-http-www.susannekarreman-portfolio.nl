@@ -20,7 +20,7 @@ body
 .btn-primary:hover {
     background-color: white; /* white */
     color: teal;
-    border-color: teal;
+    border-color: red;
   }
 
 .btn-outline-primary
