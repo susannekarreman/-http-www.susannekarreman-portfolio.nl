@@ -17,6 +17,7 @@ een selectie van mijn werk lezen, wat ik tijdens het keuzevak geschreven heb maa
   <img src="/img/ux.png" alt="Cute cat"> 
   <img src="/img/drink.png" alt="Serious cat">
   <img src="/img/droom.png" alt="Serious cat">
+  
  
  
 
