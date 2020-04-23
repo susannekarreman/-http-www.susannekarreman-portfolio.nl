@@ -52,7 +52,7 @@
 
 <div class="column">
 <div class="flip-card">
-    <a href="../../site/templates/project2.php">
+    <a href="/projectfc">
   <div class="flip-card-inner">
     <div class="flip-card-front">
       <img src="/img/mockupodp.png" alt="Avatar" style="width:300px;height:350px;">

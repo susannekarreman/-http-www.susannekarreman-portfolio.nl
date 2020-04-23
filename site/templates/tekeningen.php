@@ -1,7 +1,13 @@
 
 <?php snippet('header') ?>
 
-
+<div class="creative-dump">
+  <h2>Tekeningen</h2>
+</div>
+<div class="col-9 test"> 
+<h6> Ik vind het zelf heel erg leuk om te tekenen. Sinds kort ben ik aan de slag gegaan met acrielverf. 
+Om mijn teken vaardigheden ook in te kunnen zetten tijdens CMD ben ik aan het oefenen om met Adobe illustraitor te tekenen.</h6>
+</div>
 <section id="photos">
   <img src="/img/kat.jpg" alt="Cute cat">
   <img src="/img/fiets.jpg" alt="Serious cat">
@@ -20,9 +26,11 @@
   <img src="/img/tekening10.jpg" alt="Cute cat">
   <img src="/img/tekening7.jpg" alt="Serious cat">
   <img src="/img/tekening12.jpg" alt="Serious cat">
-  <img src="/img/meisje.jpg" alt="Serious cat">
-  <img src="/img/boeffie.png" alt="Serious cat">
-
+  <img src="/img/bloemmeisje.png" alt="Serious cat">
+  <img src="/img/boeffie1.png" alt="Serious cat">
+  <img src="/img/tekening13.png" alt="Serious cat">
+  <img src="/img/tekening14.png" alt="Serious cat">
+  <img src="/img/tekening15.png" alt="Serious cat">
 
 </section>
 
