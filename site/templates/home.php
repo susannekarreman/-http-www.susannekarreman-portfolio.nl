@@ -22,6 +22,11 @@
 
 
 
+
+<br>
+<div class="mijnwerk">
+  <h1>Mijn werk</h1>
+</div>
 <br>
 <br>
 <br>
@@ -61,12 +66,12 @@
   
 <div class="card">
     <div class="image">
-      <img src="/img/mocupnrc.png"/>
+      <img src="/img/foodcam.png"/>
     </div>
     <div class="details">
       <div class="center">
-        <h1>Achter de schermen<br><span>Opdrachtgever: NRC</span></h1>
-        <a href="http://192.168.64.2/projects/designing-the-perfect-onboarding-process"><p>Bekijk hier mijn project.</p></a>
+        <h1>Foodcam<br><span>Opdrachtgever: Online department</span></h1>
+        <a href="/projectfc"><p>Bekijk hier mijn project.</p></a>
 
       </div>
     </div>

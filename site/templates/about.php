@@ -55,6 +55,8 @@ Hiervoor maak ik gebruik van verschillende creatieve technieken en methodes. Ik 
 
 </div>
 </div>
+<br>
+<br>  
 
 
 <h3 class= "software">Mijn software skills</h3>

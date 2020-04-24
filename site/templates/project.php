@@ -96,9 +96,7 @@
 </div>
 
 
-<br>
-<br>
-<br>
+
 <div class="row">
   <div class="col-9 test">
 <h2>Discover fase</h2>
@@ -151,21 +149,20 @@ De fase is afgesloten met een tussenpresentatie en een onderzoeksposter. Ik heb 
 <div class="foto1">
 <section id="define">
 
-  <img src="/img/inzichteninsight_cards-1.jpg" alt="onterwep"> 
-  <img src="/img/insight_cards-2.jpg" alt="onderzoek">
-  <img src="/img/inzicht4.png" alt="persona">
-  <img src="/img/desk.png" alt="desk"> 
-  <img src="/img/ob3.jpg" alt="Serious cat">
-  <img src="/img/ob4.jpg" alt="Serious cat">
-  <img src="/img/stakeholder.png" alt="Stakw">
-  <img src="/img/inside.png" alt="Cute cat"> 
-  <img src="/img/ob1.jpg" alt="Serious cat">
-  <img src="/img/observatie3.png" alt="ob3">
-  <img src="/img/obeservatie1.png" alt="ob1"> 
-  <img src="/img/field.png" alt="field">
-  <img src="/img/ob5.jpg" alt="Serious cat">
-  <img src="/img/ob6.jpg" alt="Serious cat">
-  <img src="/img/analyse.png" alt="merk">
+  <img src="/img/cocd.png" alt="onterwep"> 
+  <img src="/img/reframe.png" alt="onderzoek"> 
+  <img src="/img/testinzicht.png" alt="persona">
+  <img src="/img/testinzicht2.png" alt="desk"> 
+  <img src="/img/testinzicht3.png" alt="desk">
+  <img src="/img/testinzicht4.png" alt="desk"> 
+  <img src="/img/testinzicht5.png" alt="desk"> 
+  <img src="/img/testinzicht6.png" alt="desk"> 
+  <img src="/img/testinzicht7.png" alt="desk"> 
+  <img src="/img/testinzicht8.png" alt="desk"> 
+  <img src="/img/testinzicht9.png" alt="desk"> 
+  <img src="/img/testinzicht10.png" alt="desk">  
+  <img src="/img/v1.png" alt="merk"> 
+  <img src="/img/v2.png" alt="Serious cat">
  
  
  
