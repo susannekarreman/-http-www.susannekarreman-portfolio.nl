@@ -25,49 +25,75 @@
 <br>
 <br>
 <br>
-
-<div class="mijnwerk">
-  <h2>Mijn werk</h2>
-</div>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<body>
+<div class="container">
+  <div class="column">
 <div class="row">
   <div class="col-9 test"> 
 <div class="row">
-<div class="column">
-  <div class="flip-card">
-    <a href="http://192.168.64.2/projects/designing-the-perfect-onboarding-process">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <img src="/img/mocupnrc.png" alt="Avatar" style="width:310px;height:350px;">
+
+<div class="card">
+    <div class="image">
+      <img src="/img/mocupnrc.png"/>
     </div>
-    <div class="flip-card-back">
-      <h1>Achter de schermen</h1>
-      <p>School opdracht nrc</p>
-      <p>Project bekijken</p>
+    <div class="details">
+      <div class="center">
+        <h1>Achter de schermen<br><span>Opdrachtgever: NRC</span></h1>
+        <a href="http://192.168.64.2/projects/designing-the-perfect-onboarding-process"><p>Bekijk hier mijn project.</p></a>
+
+      </div>
     </div>
   </div>
+  </div>
+  </div>
+  </div>
+  </div>
+<div class="column">
+  <div class="row">
+  <div class="col-9 test"> 
+<div class="row">
+  
+<div class="card">
+    <div class="image">
+      <img src="/img/mocupnrc.png"/>
+    </div>
+    <div class="details">
+      <div class="center">
+        <h1>Achter de schermen<br><span>Opdrachtgever: NRC</span></h1>
+        <a href="http://192.168.64.2/projects/designing-the-perfect-onboarding-process"><p>Bekijk hier mijn project.</p></a>
+
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
 </div>
 </div>
 
-<div class="column">
-<div class="flip-card">
-    <a href="/projectfc">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <img src="/img/mockupodp.png" alt="Avatar" style="width:300px;height:350px;">
-    </div>
-    <div class="flip-card-back">
-      <h1>Care for the future</h1>
-      <p>School opdracht Online department</p>
-      <p>Project bekijken</p>
-    </div>
-  </div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</body>
+
+
 
 
 

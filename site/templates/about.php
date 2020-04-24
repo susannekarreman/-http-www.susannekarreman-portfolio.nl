@@ -43,14 +43,16 @@
     <p class="ideevorming">Op basis van inzichten en conclusies uit onderzoek kan ik originele ideeën en concepten genereren. Deze concepten sluiten aan op de wensen, waarden en behoeftes van de gebruiker, opdrachtgever en belangrijke stakeholders. 
 Hiervoor maak ik gebruik van verschillende creatieve technieken en methodes. Ik vind het leuk en belangrijk om de verschillende partijen bij het ontwerpproces en ideevorming te betrekken door co-creatie.</p>
   </div>
-</div>
 
-<div class="row">
+
+
   <div class="column"><h3>Presenteren</h3>
 <p class="presenteren">Doordat ik een sociaal en ondernemend type ben geef ik graag een concept of tussen presentatie. Het presenteren vind ik heel erg leuk om te doen. Presenteren voor de opdrachtgever is vaak voor veel mensen spannend. Ik zelf zie het vaak als test voor het concept wat ik ga presenteren. Als ik het concept duidelijk kan overbrengen en het concept wordt begrepen is de kans groot dat ik waardevolle feedback terug krijg. Door een goede presentatie te geven komt het concept beter over op het publiek die dan ook het wow effect van het concept begrijpen.</p>
 </div>
+
   <div class="column"><h3>Peercoach</h3> 
 <p class="peercoach">Aan het begin van mijn tweede schooljaar ben ik peercoach geworden van de eerstejaars van cmd. Ik wist dat ik dit al wilde worden toen ik in de eerste zat. Dit kwam omdat ik heel erg veel had aan de feedback en hulp van mijn peercoach toen die tijd. Door het zijn van peercoach heb ik geleerd om op een goede manier feedback te geven, geen dingen voor te zeggen maar de studenten aan het denken te zetten en zelf tot de oplossing te laten komen. Als peercoach heb ik ook verschillende workshops geven zoals; Hoe schrijf ik een verslag en Hoe ontwerp ik een creatieve sessie.</p>
+
 </div>
 </div>
 

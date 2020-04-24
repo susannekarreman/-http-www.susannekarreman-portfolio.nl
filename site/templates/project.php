@@ -151,9 +151,9 @@ De fase is afgesloten met een tussenpresentatie en een onderzoeksposter. Ik heb 
 <div class="foto1">
 <section id="define">
 
-  <img src="/img/ontwerpproces.png" alt="onterwep"> 
-  <img src="/img/onderzoeksposter.png" alt="onderzoek">
-  <img src="/img/persona.png" alt="persona">
+  <img src="/img/inzichteninsight_cards-1.jpg" alt="onterwep"> 
+  <img src="/img/insight_cards-2.jpg" alt="onderzoek">
+  <img src="/img/inzicht4.png" alt="persona">
   <img src="/img/desk.png" alt="desk"> 
   <img src="/img/ob3.jpg" alt="Serious cat">
   <img src="/img/ob4.jpg" alt="Serious cat">
