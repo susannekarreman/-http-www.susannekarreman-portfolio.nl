@@ -516,7 +516,7 @@ p {
     transform: translate(-50%,-50%);
     width: 360px;
     height: 400px;
-    background: #000;
+   
 }
 .card .image {
     width: 100%;
@@ -604,4 +604,9 @@ p {
     content: "";
     display: table;
     clear: both;
+  }
+
+  .trailer
+  {
+    padding-left: 28%;
   }

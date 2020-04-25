@@ -15,14 +15,15 @@
       Hierdoor helpen we de lezer een mening te vormen door feiten aan te reiken en het hele proces zo 
       transparant mogelijk te laten zien.</i> </p>
      
-      <img src="<?= $site->url() ?>/img/nrcteam5.png" width="80%">
+      <img src="<?= $site->url() ?>/img/nrcbezoek.png" width="50%">
 
       <br>
       <br>
       <br>
       <br>
       <h2>De vraag van de opdrachtgever</h2>
-      <p>
+      <p style="text-align:justify;"> Hoe kunnen wij de nieuwe abonnee in de eerste veertien dagen behouden door middel van onboarding en een met digitale tool.  </p>
+
       <br>
       <h2>Mijn ontwerpproces</h2>
       <p style="text-align:justify;"> Het project is opgedeeld in verschillende fases en sprints. Tijdens deze fases zijn niet alle
@@ -33,7 +34,7 @@
   <div class="col-9 test"> 
   <div class="row">
 <div class="column">
-      <li class="discover"><b>Discover</b></li>
+      <li class="discover"><b>1. Discover</b></li>
       <ol> 
       <li>Deskresearch</li>
       <li>Fieldresearch</li>
@@ -48,7 +49,7 @@
 </div>
       
 <div class="column">
-      <li><b>Define</b></li>
+      <li><b>2. Define</b></li>
       <ol>
       <li>Co-creatie NRC abonnee</li>
       <li>HWK vragen (met Moscow)</li>
@@ -63,7 +64,7 @@
       </ol>
 </div>
    <div class="column">   
-    <li><b>Desing</b></li>
+    <li><b>3. Desing</b></li>
     <ol>
     <li>stakeholdersmap</li>
     <li>Golden circle</li>
@@ -78,7 +79,7 @@
 </div>
   
 <div class="column">
-    <li><b>Deliver</b></li>
+    <li><b>4. Deliver</b></li>
     <ol>
     <li>Wireframes in sketch</li>
     <li>Low fid prototype in sketch</li>
@@ -111,7 +112,6 @@
   <img src="/img/desk.png" alt="desk"> 
   <img src="/img/ob3.jpg" alt="Serious cat">
   <img src="/img/ob4.jpg" alt="Serious cat">
-  <img src="/img/stakeholder.png" alt="Stakw">
   <img src="/img/inside.png" alt="Cute cat"> 
   <img src="/img/ob1.jpg" alt="Serious cat">
   <img src="/img/observatie3.png" alt="ob3">
@@ -150,6 +150,13 @@ De fase is afgesloten met een tussenpresentatie en een onderzoeksposter. Ik heb 
 <section id="define">
 
   <img src="/img/cocd.png" alt="onterwep"> 
+  <img src="/img/moscow.png" alt="onterwep"> 
+  <img src="/img/365.png" alt="desk">  
+  <img src="/img/test.png" alt="merk"> 
+  <img src="/img/test2.png" alt="Serious cat">
+  <img src="/img/story.png" alt="desk">  
+  <img src="/img/v1.png" alt="merk"> 
+  <img src="/img/v2.png" alt="Serious cat">
   <img src="/img/reframe.png" alt="onderzoek"> 
   <img src="/img/testinzicht.png" alt="persona">
   <img src="/img/testinzicht2.png" alt="desk"> 
@@ -161,14 +168,18 @@ De fase is afgesloten met een tussenpresentatie en een onderzoeksposter. Ik heb 
   <img src="/img/testinzicht8.png" alt="desk"> 
   <img src="/img/testinzicht9.png" alt="desk"> 
   <img src="/img/testinzicht10.png" alt="desk">  
-  <img src="/img/v1.png" alt="merk"> 
-  <img src="/img/v2.png" alt="Serious cat">
  
- 
- 
+  
+ </section>
+</div>
 
-  </section>
-
+<div class="trailer">
+<video src="/img/nrc_trailer.mp4"
+width="400" height="300"
+preload
+controls
+loop>
+</video>
 </div>
 
 <div class="row">
@@ -196,12 +207,48 @@ De Define fase hebben wij afgesloten met drie concepten en een presentatie aan d
 </div>
 </div>
 
+<div class="row">
+  <div class="col-9 test">
+<h2>Design fase</h2>
+</div>
+</div>
+<div class="foto1">
+<section id="define">
 
+<img src="/img/nrcbezoek.png" alt="onterwep"> 
+  <img src="/img/job.png" alt="onterwep"> 
+  <img src="/img/schtetsnrc.png" alt="onterwep"> 
+  <img src="/img/schetsnrc2.png" alt="2"> 
+  <img src="/img/userstory.png" alt="desk">  
+  <img src="/img/userstory2.png" alt="merk"> 
+  <img src="/img/story.png" alt="desk">  
+  <img src="/img/sidemap.png" alt="merk"> 
+  <img src="/img/reframe.png" alt="onderzoek"> 
+  <img src="/img/wire1.png" alt="persona">
+  <img src="/img/wire2.png" alt="desk"> 
+  <img src="/img/wire3.png" alt="desk">
+  <img src="/img/wire4.png" alt="desk"> 
+  <img src="/img/wire5.png" alt="desk"> 
+  <img src="/img/wire6.png" alt="desk"> 
+  <img src="/img/wire7.png" alt="desk"> 
+  <img src="/img/wire8.png" alt="desk"> 
 
-
+ 
   
+ </section>
+</div>
 
+<div class="row">
+  <div class="col-9 test">
 
+<p style="text-align:justify;"> De design fase zijn wij wat rommelig begonnen omdat wij er voor gekozen hadden om van doelgroep te wisselen. Wij wilde ons meer gaan focussen op de journalist en zo de onboarding van de abonnee aanpakken door ze een band aan te laten gaan met de journalist en het merk NRC. Nadat wij onderzoek gedaan hebben naar de journalist en ook gesproken hebben met een journalist van het NRC hebben wij het team opgedeelt. Twee gingen de trailer maken en twee gingen aan de app werken. Ik hebben samen met een teamgenoot aan de app gewerkt. </p>
+
+<p style="text-align:justify;"> Tijdens het bezoek aan NRC hebben wij ons concept voorgelegd aan de journalist Ingmar Vriesema. Hij was zeer enthousiast over ons concept. Hij heeft ons verteld hoeveel werk er in een onderzoeksartikel gaat zitten en wat hij er allemaal voor heeft gedaan om de waarheid boven tafel te krijgen. Na afloop hebben wij documenten gekregen die ook gepubliceerd waren en het bijbehorende artikel. Dit hebben wij ook verwerkt in het prototype. </p>
+
+<p style="text-align:justify;"> Voor de app ben ik begonnen met het schetsen van wireframes op papier. Al snel ben ik overgegaan in sketch omdat voor het eerste low fit prototype al 27 schermen nodig hadden en dit sneller op de computer ging. Deze schermen wij hebben wij vervolgens ook getest en de app later in de deliver fase aangepast hebben in Figma op basis van de feedback. </p>
+
+</div>
+</div>
 
 
 
