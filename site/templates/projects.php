@@ -26,7 +26,7 @@
     <div class="details">
       <div class="center">
         <h1>Achter de schermen<br><span>Opdrachtgever: NRC</span></h1>
-        <a href="http://192.168.64.2/projects/designing-the-perfect-onboarding-process"><p>Bekijk hier mijn project.</p></a>
+        <a href="/project"><p>Bekijk hier mijn project.</p></a>
 
       </div>
     </div>

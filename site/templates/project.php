@@ -207,6 +207,8 @@ De Define fase hebben wij afgesloten met drie concepten en een presentatie aan d
 </div>
 </div>
 
+
+
 <div class="row">
   <div class="col-9 test">
 <h2>Design fase</h2>
@@ -250,9 +252,62 @@ De Define fase hebben wij afgesloten met drie concepten en een presentatie aan d
 </div>
 </div>
 
+<div class="row">
+  <div class="col-9 test">
+<h2>Deliver fase</h2>
+</div>
+</div>
+<div class="foto1">
+<section id="define">
 
 
+  <img src="/img/exponrc.png" alt="desk"> 
+  <img src="/img/exponrc2.png" alt="desk"> 
+  <img src="/img/exponrc3.png" alt="desk"> 
+  <img src="/img/exponrc4.png" alt="desk">  
+  <img src="/img/scherm5.png" alt="merk"> 
+  <img src="/img/scherm1.png" alt="merk"> 
+  <img src="/img/scherm6.png" alt="merk"> 
+  <img src="/img/design.png" alt="onterwep"> 
+   <img src="/img/utest1.png" alt="desk">  
+  <img src="/img/utest2.png" alt="merk"> 
+  <img src="/img/utest3.png" alt="onderzoek"> 
+  <img src="/img/utest4.png" alt="persona">
+  <img src="/img/utest5.png" alt="desk"> 
+  <img src="/img/utest6.png" alt="desk">
 
+
+ 
+  
+ </section>
+</div>
+
+<div class="row">
+  <div class="col-9 test">
+
+<p style="text-align:justify;"> De delever fase was er een om niet meer te vergeten. In de laatste paar weken hebben wij met z’n tweeën de app van het nrc na gemaakt en ons eigen concept er in verwerkt.    </p>
+
+<p style="text-align:justify;"> Tijdens deze fase hebben wij het eindconcept getest en aangepast op basis van feedback. Wij hebben getest op verschillende respondenten waar wij toegang hadden via docenten en kennissen.Wij hebben user en usability testen uitgevoerd van de app en de trailer. </p>
+
+<p style="text-align:justify;">In figma hebben wij het concept uitgewerkt en volledig klikbaar gemaakt. <a href="https://www.figma.com/file/RQeJlfNRg0XBz7TD2wzNCN/App-V2" target="_blank"><b> Klik hier</b></a> om de te bekijken in Figma</p>
+
+  <p style="text-align:justify;"> Achter de schermen neem de abonnee mee met de journalist hoe een onderzoeksartikel tot stand komt. Achter de schermen is een toevoeging in de huidige NRC app. Als de gebruiker in de app op achter de schermen klikt krijg de gebruiker de afleveringen te zien die per journalist gemaakt zijn over het werk van de journalist. De gebruiker van de app kan notificaties aanzetten als er een nieuwe aflevering wordt toegevoegd. Ook hebben wij een journalisten pagina toegevoegd om de journalist meer naar de voorgrond te halen. Hier kan de gebruiker de journalist volgen en alles lezen en bekijken wij de journalist gemaakt heeft.</p>
+
+  <p style="text-align:justify;"> Het eindresultaat is verwerkt in de app en de trailer om het concept op de expo over te brengen op de opdrachtgever, docenten en andere bezoekers.</p>
+  
+  <p style="text-align:justify;"> Bekijk ook de trailer van achter de schermen!</p>
+
+
+  
+<video src="/img/nrctrailer.mp4"
+width="400" height="300"
+preload
+controls
+loop>
+</video>
+
+  </div>
+</div>
 
 <?php snippet('pagination') ?>
 <?php snippet('footer') ?>
