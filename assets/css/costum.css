@@ -61,14 +61,6 @@ a{
     color: black;
 }
 
-* {
-  box-sizing: border-box;
-}
-@media screen and (max-width: 600px) {
-.btn-outline-primary {
-    width: 100%;
-  }
-}
 
 
 /* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */

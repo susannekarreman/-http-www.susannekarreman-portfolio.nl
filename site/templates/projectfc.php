@@ -12,7 +12,7 @@
   <div class="col-12">
     <br>
     <h4>De opdracht</h4>
-    <p style="text-align:justify;"> Voor opdrachtgever Online department onderzoeken wij de volgende vraag:
+    <p style="text-align:justify;"> Voor de opdrachtgever Online department heb ik de volgende vraag onderzocht:
 Hoe zorgen wij ervoor dat ouderen langer thuis kunnen blijven wonen met behulp van
 mantelzorgers? </p>
 
@@ -25,19 +25,19 @@ zelfstandig en eenvoudig uit te voeren. Het team van het concept Fier hebben het
 ontwikkeld om ouderen met dementie aan te sporen om een dagelijkse taak zelfstandig uit te
 voeren met behulp van sensoren en technologie. </p>
 <p style="text-align:justify;">
-Uit interviews die ik heb gehouden in DC2 kwam het moeite hebben met boodschappen
-steeds terug. Ook uit deskresearch bleek dat mantelzorgers vaak de taak van
-boodschappen op zich nemen wat veel tijd in beslag neemt. (Mantelluisteren, 2014) "Ouderen
+Uit interviews die ik heb gehouden in het vorige kwartaal kwam terug dat ouderen moeite hebben met boodschappen doen.
+ Ook uit deskresearch bleek dat mantelzorgers vaak de taak van
+boodschappen op zich nemen wat tijd in beslag neemt. (Mantelluisteren, 2014) "Ouderen
 voelen zich vaak bezwaard om zo veel hulp te vragen dit verlaagt hun eigen waarden". 
 </p>
 
 <h4> Huidige sitautie</h4>
 <p style="text-align:justify;">
-De huidige situatie
+
 <li>Tijdens het boodschappen doen vergeten wat je moet halen</li>
 <li>Producten dubbel kopen, omdat je denkt ze niet meer te hebben</li>
 <li>Lichamelijke klachten vanwege het tillen van zware boodschappentassen</li>
-<li>Eten weggooien omdat je net bewust ben van wat je voorraad is</li>
+<li>Eten weggooien omdat je niet bewust ben van wat je voorraad is</li>
 <li>Minder gevarieerd eten
 </p>
 <p style="text-align:justify;">
