@@ -4,7 +4,7 @@
 <div class="row">
   <div class="col-12 col-lg-9">
     <br>
-    <h2>Wie ik ben</h2>
+    <h2>Over mij</h2>
     <br>
   </div>
   </div>
@@ -31,7 +31,10 @@
 <br>
 <br>
 
+<div class="container">
 <h3 class= "kwaliteiten">Mijn kwaliteiten</h3>
+  <div class="col-12">
+
 <br>
 <br>
 <div class="row">
@@ -53,20 +56,23 @@ Hiervoor maak ik gebruik van verschillende creatieve technieken en methodes. Ik 
   <div class="column"><h3>Peercoach</h3> 
 <p class="peercoach">Aan het begin van mijn tweede schooljaar ben ik peercoach geworden van de eerstejaars van cmd. Ik wist dat ik dit al wilde worden toen ik in de eerste zat. Dit kwam omdat ik heel erg veel had aan de feedback en hulp van mijn peercoach toen die tijd. Door het zijn van peercoach heb ik geleerd om op een goede manier feedback te geven, geen dingen voor te zeggen maar de studenten aan het denken te zetten en zelf tot de oplossing te laten komen. Als peercoach heb ik ook verschillende workshops geven zoals; Hoe schrijf ik een verslag en Hoe ontwerp ik een creatieve sessie.</p>
 
+
 </div>
 </div>
+</div>
+
 <br>
 <br>  
 
 
-<h3 class= "software">Mijn software skills</h3>
+<h3 class= "kwaliteiten">Mijn software skills</h3>
 
 <div class="skills">
   
        
         <img src="/img/skills.png" width="100%">
 </div>
-
+</div>
 
 
 

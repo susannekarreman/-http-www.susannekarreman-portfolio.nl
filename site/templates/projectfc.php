@@ -7,15 +7,16 @@
 </div>
 <br>
 <br>
+<img src="img/logofoodcam.png">
 <div class="row">
   <div class="col-12">
-    <h2> Foodcam </h2>
     <br>
+    <h4>De opdracht</h4>
     <p style="text-align:justify;"> Voor opdrachtgever Online department onderzoeken wij de volgende vraag:
 Hoe zorgen wij ervoor dat ouderen langer thuis kunnen blijven wonen met behulp van
 mantelzorgers? </p>
 
-<h4> <b>De aanleiding van opdracht</b></h4>
+<h4> De aanleiding van opdracht</h4>
 <p style="text-align:justify;">
 De aanleiding van de opdracht is het veder uitwerken van een gekozen concept van DC2, dat
 ervoor moet zorgen dat ouderen langer thuis kunnen blijven wonen. Ik heb samen met mijn
@@ -26,11 +27,11 @@ voeren met behulp van sensoren en technologie. </p>
 <p style="text-align:justify;">
 Uit interviews die ik heb gehouden in DC2 kwam het moeite hebben met boodschappen
 steeds terug. Ook uit deskresearch bleek dat mantelzorgers vaak de taak van
-boodschappen op zich nemen wat veel tijd in beslag neemt. (Mantelluisteren, 2014) Ouderen
-voelen zich vaak bezwaard om zo veel hulp te vragen dit verlaagt hun eigen waarden. 
+boodschappen op zich nemen wat veel tijd in beslag neemt. (Mantelluisteren, 2014) "Ouderen
+voelen zich vaak bezwaard om zo veel hulp te vragen dit verlaagt hun eigen waarden". 
 </p>
 
-<h4> <b>Huidige sitautie</b></h4>
+<h4> Huidige sitautie</h4>
 <p style="text-align:justify;">
 De huidige situatie
 <li>Tijdens het boodschappen doen vergeten wat je moet halen</li>
@@ -46,7 +47,7 @@ willen wij gaan aanpakken zodat ouderen zelfstandig boodschappen kunnen doen en 
 eigen waarden kunnen behouden. 
 </p>
 
-<h4> <b>Gewenste sitautie</b></h4>
+<h4> Gewenste sitautie</h4>
 <p style="text-align:justify;">
 <li>Nooit meer vergeten wat je moet halen</li>
 <li>Fysieke rust, door thuisbezorging dienst</li>
@@ -54,7 +55,7 @@ eigen waarden kunnen behouden.
 <li>Zelfstandig, zonder hulp van mantelzorger boodschappen doen</li>
 </p>
 
-<h4> <b>Eindresultaat</b></h4>
+<h4> Eindresultaat</h4>
 <p style="text-align:justify;">
 We weten allemaal hoe vervelend het is om wat te vergeten tijdens het boodschappen doen,
 laat staan voor ouderen met bijvoorbeeld een lichte vorm van dementie!
@@ -73,6 +74,34 @@ regelen, waardoor hun eigenwaarde wordt bevorderd. De mantelzorger is hiervoor n
 nodig, waardoor hun de tijd krijgen om de goede zorg aan de ouder te verlenen.
 </p>
 
+
+<div class="row">
+<div class="poster">
+  <img src="/img/poster1.png" alt="onterwep" class="algin-left medium">
+  <img src="/img/poster2.png" alt="onderzoek" class="algin-left medium">
+ <p style="text-align:justify;">  <font size="-3"><img src="/img/poster3.png"  class="algin-left medium"><b>Senario</b><br> Corrie heeft de FoodCam geïnstalleerd en deze scant wat er nog in haar koelkast/voorraadkasten ligt. Zo wordt er automatisch een boodschappenlijst voor Corrie gemaakt op de bijbehorende app.
+Corrie bekijkt de recepten in de app en wilt deze week graag pasta Bolognese eten. Ze klikt het recept aan en er verschijnt direct een scherm met de bereidingswijze en ingrediënten
+lijst. De gemiste producten worden gelijk toegevoegd aan haar boodschappenlijst. Uiteraard kan ze deze nog wijzigen als ze liever een ander product wilt hebben.
+Corrie is bijna jarig en moet dus nog wel even zelf een taart toevoegen op de boodschappenlijst, want dat weet de FoodCam niet.
+Ze klikt op ‘bevestigen’ nadat
+ze haar boodschappenlijst heeft gecontroleerd. Voor de veiligheid van haar rekening, moet ze nog wel even haar beveiligingscode invoeren. Vervolgens kan ze een bezorgtijd kiezen en kan ze de bezorging volgen.
+De bel gaat en de bezorger staat voor haar deur met de boodschappen. Deze worden netjes naar binnen gebracht.
+Corrie betaalt met de automatische incasso.
+ </font></p>
+
+ 
+</div>
+</div>
+ <br>
+ <br>
+ <br>
+ 
+ 
+
+
+
+</div>
+</div>
 
 
 <?php snippet('pagination') ?>
