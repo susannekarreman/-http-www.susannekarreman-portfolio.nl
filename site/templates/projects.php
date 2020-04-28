@@ -57,11 +57,51 @@
 </div>
 </div>
 </div>
-
-
-  <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="container">
+<div class="column">
+  <div class="row">
+  <div class="col-9 test"> 
+<div class="row">
+  
+<div class="card">
+    <div class="image">
+      <img src="/img/foodcam.png"/>
+    </div>
+    <div class="details">
+      <div class="center">
+      <h1>Foodcam<br><span>Opdrachtgever: Online department</span></h1>
+      <a href="/project3"><p>Bekijk hier mijn project.</p></a>
+
+  </div>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
 <br>
 <br>
 <br>

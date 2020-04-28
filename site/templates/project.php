@@ -31,7 +31,7 @@
       veel geleerd van mijn design sprints. </p>
 
       <div class="row">
-  <div class="col-9 test"> 
+  <div class="col-12"> 
   <div class="row">
 <div class="column">
       <li class="discover"><b>1. Discover</b></li>
@@ -49,7 +49,7 @@
 </div>
       
 <div class="column">
-      <li><b>2. Define</b></li>
+      <li class="discover"><b>2. Define</b></li>
       <ol>
       <li>Co-creatie NRC abonnee</li>
       <li>HWK vragen (met Moscow)</li>
@@ -64,7 +64,7 @@
       </ol>
 </div>
    <div class="column">   
-    <li><b>3. Desing</b></li>
+   <li class="discover"><b>3. Desing</b></li>
     <ol>
     <li>stakeholdersmap</li>
     <li>Golden circle</li>
@@ -79,7 +79,7 @@
 </div>
   
 <div class="column">
-    <li><b>4. Deliver</b></li>
+<li class="discover"><b>4. Deliver</b></li>
     <ol>
     <li>Wireframes in sketch</li>
     <li>Low fid prototype in sketch</li>
