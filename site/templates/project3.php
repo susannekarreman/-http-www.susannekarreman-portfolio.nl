@@ -11,7 +11,7 @@
 <div class="row">
   <div class="col-12">
     <br>
-    <h4>HALLLLOOOOSt</h4>
+
     <p style="text-align:justify;"> Voor de opdrachtgever Online department heb ik de volgende vraag onderzocht:
 Hoe zorgen wij ervoor dat ouderen langer thuis kunnen blijven wonen met behulp van
 mantelzorgers? </p>
@@ -34,18 +34,20 @@ zorginstanties</li>
 
 <h4> Ontwerpopgaven</h4>
 <p style="text-align:justify;">
-Om tot ons concept te komen hebben wij ons onderzoek verdeeld in 5 fases.
-
-  <div class="row">
+De design challenge is opgedeeld in 5 fases. Tijdens de fase heb ik verschillende technieken en methodes gebruikt om tot het eind concept te komen.
+</p>
   
+  <div class="row">  
+      <div class="column1">
       <li><b>Preparation</b></li>
-    
       <ol>
       <li>User journey</li>
       <li>Scrum</li> 
-      </ol>
-
+    </ol>
+    </div>
       
+  
+    <div class="column1">
       <li><b>Empathize</b></li>
     
       <ol>
@@ -54,8 +56,9 @@ Om tot ons concept te komen hebben wij ons onderzoek verdeeld in 5 fases.
       <li>Doelgroeponderzoek 2</li>
       <li>Insightwall</li>
       </ol>
+    </div>
     
-
+    <div class="column1">
       <li><b>Define</b></li>
       <ol>
       <li>Design principles</li>
@@ -63,8 +66,12 @@ Om tot ons concept te komen hebben wij ons onderzoek verdeeld in 5 fases.
       <li>Statement cards</li>
       <li>Persona</li>
       </ol>
+    </div>
+    
+    
 
-      
+   
+    <div class="column1">
       <li><b>Ideate</b></li>
       <ol>
       <li>Presser cooker</li>
@@ -78,7 +85,9 @@ Om tot ons concept te komen hebben wij ons onderzoek verdeeld in 5 fases.
       <li>Techniek blaadjes</li>
       <li>Senario</li>
       </ol>
+    </div>
 
+    <div class="column1">
       <li><b>Create & Test</b></li>
       <ol>
       <li>Storyboard</li>
@@ -87,17 +96,17 @@ Om tot ons concept te komen hebben wij ons onderzoek verdeeld in 5 fases.
       <li>Conceptposter</li>
       <li>Conceptpresentatie</li>
       </ol>
-    </div>
 
+    </div>
   
 
 
 
 
 
-</p>
 
-<h4> Preaparation</h4>
+
+<h4 class="kwaliteiten"> Preaparation</h4>
 <p style="text-align:justify;">
 In deze fase heb ik mijn team leren kennen, maar heb ik ook al de eerste
 voorbereidingen genomen om te beginnen met mijn onderzoek. Hierbij heb ik geleerd
@@ -138,7 +147,7 @@ ik zelf moest doen. Ik ga zeker in de volgende periode scrum weer gebruiken omda
 mijzelf erg fijn werkt.  
 </p>
 
-<h4>Empathize</h4>
+<h4 class="kwaliteiten">Empathize</h4>
 <p style="text-align:justify;">
 Tijdens deze fase ben ik begonnen met het verzamelen van zo veel mogelijk
 informatie (divigeren). Tijdens deze fase heb ik verschillende methodes en technieken
@@ -280,11 +289,44 @@ Onze muur is het belangrijkste onderdeel geweest uit de onderzoeksfase.
 
 
 
+<h4 class="kwaliteiten">Define</h4>
+<p style="text-align:justify;"> Tijdens deze fase heb ik de resulataten van de vorige fases meegnomen in het ontwikkelen van het concept. Tijdens de define fase heb ik verschillende ontwerpkeuzes gemaakt opbais van methodes en creatieve technieken.</p>
+
+
+<div class="container">
+<h6><b>Design principles</b></h6>
+
+<p style="text-align:justify;">
+Om straks tijdens de ideation een werkbaar concept neer te zetten moeten we
+eerst de design priniples opstellen. Design principles zijn onderlenen waar je
+concept/product aan moet voldoen. Tijdens het opstellen hier van zijn wij
+human-centert te werk gaan. Wij hebben van uit de gebruiker na gedacht.
+Wij hebben er zelf vijf opgesteld;</p>
+<li style="text-align:justify;">De zorg ontzorgen</li>
+<p style="text-align:justify;"><i>We willen dat ouderen zelfstandig taken op zich nemen zodat de (mantel)zorg zich kan richten op de belangrijke taken. Zij nemen dan de taken op zich, waarvoor zij zij echt nodig zijn.</i></p>
+
+<li style="text-align:justify;">Ouderen staan centraal</li>
+<p style="text-align:justify;"><i>Omdat we ons richten op de zelfredzaamheid van ouderen, denken we vanuit het perspectief van de ouderen.</i></p>
+
+<li style="text-align:justify;">Makkelijk in gebruik</li>
+<p style="text-align:justify;"><i>Het product is na een korte uitleg bruikbaar voor ouderen. Als het gebruik logisch is, wordt het voor de ouderen makkelijker om te gebruiken.</i> </p>
+
+<li style="text-align:justify;"> Zelfredzaamheid bevorderen</li>
+<p style="text-align:justify;"><i>Doordat de ouderen zelfstandiger worden kunnen zij de dagelijkse taken goed
+uitvoeren, waardoor de zelfredzaamheid vooruit gaat.</i></p>
+
+<li style="text-align:justify;"> Betaalbaar voor de gemiddelde ouderen </li>
+<p style="text-align:justify;"><i>Niet elke oudere heeft een breed pensioen om dure zorg in te kopen, maar we willen ons product kunnen aanbieden aan iedereen. </i></p>
 
 
 
 
-<h4>Bronnen</h4>
+
+
+
+
+
+<h4 class="kwaliteiten">Bronnen</h4>
 
 <li >1. Npro de monitor, 2017, documenteren zorg aan huis. Geraadpleegd op 26 november
 2018
@@ -323,7 +365,7 @@ Borthwick</li>
 
 </div>
 </div>
-
+    </div>
 
 <?php snippet('pagination') ?>
 <?php snippet('footer') ?>

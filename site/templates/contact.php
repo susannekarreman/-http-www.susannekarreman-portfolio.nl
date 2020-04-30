@@ -1,25 +1,23 @@
 
 <?php snippet('header') ?>
+<br>
+<br>
 <head>
 <script src="https://kit.fontawesome.com/yourcode.js"></script>
 </head>
 
 <body>
-<div class="row">
-  <div class="column" >
-    
+
   <div class="contactpagina">
-    <br>
-    <div class="cardmb-3">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <div class="foto">
+  <div class="column">
+
+    
       <img src="/img/contactfoto.gif" class="card-img" class="img-fluid" alt="Susanne Karreman">
 </div>
 </div>
-
-
+<div class="contactpagina">
 <div class="column">
+
     <div class="col-md-8">
       <div class="card-body">
       <br>
@@ -34,18 +32,14 @@
         <p cass="card-text"><b>Telefoon: +31 6 40893824</b></p>
         <p cass="card-text"><b>Email: susanne.karreman@gmail.com</b></p>
      
-</div>
+
 <div class="social">
         <i class="fab fa-instagram"></i>
        
         <a href="https://www.instagram.com/_susanne_x/" target="_blank">
-        <img src="/img/instagramlogo.png" width="45">
+        <img src="/img/instagramlogo.png" width="42">
         </a>
       
-           
-        
-       
-    
         <a href="https://www.linkedin.com/in/susanne-karreman-705a5a197/" target="_blank">
         <img src="/img/linkedinlogo.png" width="100">
 </div>
@@ -56,16 +50,12 @@
         
 
 
-    
+</div>
 </div>
 </div>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+
 </body>
   
 

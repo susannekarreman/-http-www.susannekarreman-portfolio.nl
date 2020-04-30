@@ -33,7 +33,7 @@
       <div class="row">
   <div class="col-12"> 
   <div class="row">
-<div class="column">
+<div class="column2">
       <li class="discover"><b>1. Discover</b></li>
       <ol> 
       <li>Deskresearch</li>
@@ -48,7 +48,7 @@
       </ol>
 </div>
       
-<div class="column">
+<div class="column2">
       <li class="discover"><b>2. Define</b></li>
       <ol>
       <li>Co-creatie NRC abonnee</li>
@@ -63,7 +63,7 @@
       <li>Presenatie opdrachtgever</li>
       </ol>
 </div>
-   <div class="column">   
+   <div class="column2">   
    <li class="discover"><b>3. Desing</b></li>
     <ol>
     <li>stakeholdersmap</li>
@@ -78,7 +78,7 @@
     </ol>
 </div>
   
-<div class="column">
+<div class="column2">
 <li class="discover"><b>4. Deliver</b></li>
     <ol>
     <li>Wireframes in sketch</li>

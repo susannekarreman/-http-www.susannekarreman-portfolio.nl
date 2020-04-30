@@ -14,7 +14,7 @@
 <br>
 <body>
 <div class="container">
-  <div class="column">
+  <div class="column3">
 <div class="row">
   <div class="col-9 test"> 
 <div class="row">
@@ -35,7 +35,7 @@
   </div>
   </div>
   </div>
-<div class="column">
+<div class="column3">
   <div class="row">
   <div class="col-9 test"> 
 <div class="row">
@@ -57,28 +57,9 @@
 </div>
 </div>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <div class="container">
-<div class="column">
+<div class="column3">
   <div class="row">
   <div class="col-9 test"> 
 <div class="row">

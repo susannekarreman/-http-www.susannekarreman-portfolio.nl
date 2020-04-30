@@ -45,7 +45,7 @@
   <div class="col-9 test"> 
 <div class="row">
 
-<div class="card">
+<div class="card1">
     <div class="image">
       <img src="/img/mocupnrc.png"/>
     </div>
@@ -66,7 +66,7 @@
   <div class="col-9 test"> 
 <div class="row">
   
-<div class="card">
+<div class="card1">
     <div class="image">
       <img src="/img/foodcam.png"/>
     </div>
