@@ -92,6 +92,10 @@ a{
     max-height: 375px;
 }
 
+.fotocff
+{
+  margin-left: 28%;
+}
 
 .column {
     float: left;
@@ -255,8 +259,8 @@ a{
 
   .mijnwerk
   {
-    padding-left: 40%;
-    width: 100%;
+    margin-left: 40%;
+   
     text-decoration: underline teal;
   }
 
@@ -557,7 +561,7 @@ i
     text-transform: uppercase;
 }
 .card .details .center h1 span {
-    font-size: 14px;
+    font-size: 10px;
     color: #262626;
 }
 .card .details .center p {
@@ -714,4 +718,15 @@ i
 }
 .card1 .details .center ul li a:hover {
     background: teal;
+}
+
+
+
+
+
+
+
+.column4 {
+  float: left;
+  width: 33.33%;
 }

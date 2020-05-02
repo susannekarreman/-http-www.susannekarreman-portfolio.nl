@@ -11,12 +11,12 @@
 <div class="row">
   <div class="col-12">
     <br>
-    <h4>De opdracht</h4>
+    <h4 class="kwaliteiten">De opdracht</h4>
     <p style="text-align:justify;"> Voor de opdrachtgever Online department heb ik de volgende vraag onderzocht:
 Hoe zorgen wij ervoor dat ouderen langer thuis kunnen blijven wonen met behulp van
 mantelzorgers? </p>
 
-<h4> De aanleiding van opdracht</h4>
+<h4 class="kwaliteiten"> De aanleiding van opdracht</h4>
 <p style="text-align:justify;">
 De aanleiding van de opdracht is het veder uitwerken van een gekozen concept van DC2, dat
 ervoor moet zorgen dat ouderen langer thuis kunnen blijven wonen. Ik heb samen met mijn
@@ -31,7 +31,7 @@ boodschappen op zich nemen wat tijd in beslag neemt. (Mantelluisteren, 2014) "Ou
 voelen zich vaak bezwaard om zo veel hulp te vragen dit verlaagt hun eigen waarden". 
 </p>
 
-<h4> Huidige sitautie</h4>
+<h4 class="kwaliteiten"> Huidige sitautie</h4>
 <p style="text-align:justify;">
 
 <li>Tijdens het boodschappen doen vergeten wat je moet halen</li>
@@ -47,7 +47,7 @@ willen wij gaan aanpakken zodat ouderen zelfstandig boodschappen kunnen doen en 
 eigen waarden kunnen behouden. 
 </p>
 
-<h4> Gewenste sitautie</h4>
+<h4 class="kwaliteiten"> Gewenste sitautie</h4>
 <p style="text-align:justify;">
 <li>Nooit meer vergeten wat je moet halen</li>
 <li>Fysieke rust, door thuisbezorging dienst</li>
@@ -55,7 +55,7 @@ eigen waarden kunnen behouden.
 <li>Zelfstandig, zonder hulp van mantelzorger boodschappen doen</li>
 </p>
 
-<h4> Eindresultaat</h4>
+<h4 class="kwaliteiten"> Eindresultaat</h4>
 <p style="text-align:justify;">
 We weten allemaal hoe vervelend het is om wat te vergeten tijdens het boodschappen doen,
 laat staan voor ouderen met bijvoorbeeld een lichte vorm van dementie!

@@ -27,6 +27,7 @@ Om mijn teken vaardigheden ook in te kunnen zetten tijdens CMD ben ik aan het oe
   <img src="/img/tekening7.jpg" alt="Serious cat">
   <img src="/img/tekening12.jpg" alt="Serious cat">
   <img src="/img/bloemmeisje.png" alt="Serious cat">
+  <img src="/img/paardje.jpg" alt="Serious cat">
   <img src="/img/boeffie1.png" alt="Serious cat">
   <img src="/img/tekening13.png" alt="Serious cat">
   <img src="/img/tekening14.png" alt="Serious cat">
